@@ -1,0 +1,16 @@
+{
+    "type": "module",
+    "name": "nombre-del-proyecto",
+    "version": "1.0.0",
+    "description": "Descripción del proyecto",
+    "main": "escenariosPosibles.ts",
+    "scripts": {
+        "start": "node --experimental-specifier-resolution=node escenariosPosibles.ts"
+    },
+    "keywords": [],
+    "author": "Agustina Ortolachipi",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.11"
+    }
+}
